@@ -1,3 +1,4 @@
-.DS_Stores
+.DS_Store
 .devcontainer/
 __pycache__/
+*.xlsx
